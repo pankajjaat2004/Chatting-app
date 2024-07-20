@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question" : "Who is the current Secretary-General of the United Nations as of 2024?",
+        "options": [
+            "António Guterres",
+            "Ban Ki-moon",
+            "Kofi Annan",
+            "Boutros Boutros-Ghali"
+        ],
+        "answer": "António Guterres"
+    },
+    {
+        "id": "02",
+        "question" : "Which country hosted the 2023 G20 summit?",
+        "options": [
+            "India",
+            "Italy",
+            "Saudi Arabia",
+            "Japan"
+        ],
+        "answer": "India"
+    },
+    {
+        "id": "03",
+        "question" : "Which tech company completed the acquisition of Activision Blizzard in 2023?",
+        "options": [
+            "Apple",
+            "Amazon",
+            "Microsoft",
+            "Google"
+        ],
+        "answer": "Microsoft"
+    },
+    {
+        "id": "04",
+        "question" : "What is the name of the recent global initiative to combat climate change launched at COP27?",
+        "options": [
+            "Green New Deal",
+            "Paris Agreement",
+            "Glasgow Climate Pact",
+            "Climate Action Now"
+        ],
+        "answer": "Glasgow Climate Pact"
+    },
+    {
+        "id": "05",
+        "question" : "Who won the 2023 Nobel Prize in Literature?",
+        "options": [
+            "Abdulrazak Gurnah",
+            "Annie Ernaux",
+            "Louise Glück",
+            "Kazuo Ishiguro"
+        ],
+        "answer": "Annie Ernaux"
+    },
+    {
+        "id": "06",
+        "question" : "Which country recently became the newest member of NATO?",
+        "options": [
+            "Ukraine",
+            "Finland",
+            "Sweden",
+            "Georgia"
+        ],
+        "answer": "Finland"
+    },
+    {
+        "id": "07",
+        "question" : "Who is the current Prime Minister of the United Kingdom as of 2024?",
+        "options": [
+            "Boris Johnson",
+            "Rishi Sunak",
+            "Liz Truss",
+            "Keir Starmer"
+        ],
+        "answer": "Rishi Sunak"
+    },
+    {
+        "id": "08",
+        "question" : "Which country won the FIFA Women's World Cup in 2023?",
+        "options": [
+            "United States",
+            "Germany",
+            "Brazil",
+            "Spain"
+        ],
+        "answer": "Spain"
+    },
+    {
+        "id": "09",
+        "question" : "What is the name of the mission by NASA that aims to return humans to the Moon by 2025?",
+        "options": [
+            "Artemis",
+            "Apollo",
+            "Orion",
+            "Discovery"
+        ],
+        "answer": "Artemis"
+    },
+    {
+        "id": "10",
+        "question" : "Which country recently legalized same-sex marriage in 2023?",
+        "options": [
+            "India",
+            "Japan",
+            "Mexico",
+            "Singapore"
+        ],
+        "answer": "Mexico"
+    }
+]

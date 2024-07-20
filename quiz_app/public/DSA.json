@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question" : "Which of the following data structures uses LIFO (Last In First Out) order?",
+        "options": [
+            "Queue",
+            "Stack",
+            "Linked List",
+            "Tree"
+        ],
+        "answer": "Stack"
+    },
+    {
+        "id": "02",
+        "question" : "What is the time complexity of binary search algorithm?",
+        "options": [
+            "O(n)",
+            "O(n log n)",
+            "O(log n)",
+            "O(n^2)"
+        ],
+        "answer": "O(log n)"
+    },
+    {
+        "id": "03",
+        "question" : "Which data structure is used to implement a priority queue?",
+        "options": [
+            "Array",
+            "Linked List",
+            "Heap",
+            "Stack"
+        ],
+        "answer": "Heap"
+    },
+    {
+        "id": "04",
+        "question" : "Which of the following sorting algorithms has the best average case time complexity?",
+        "options": [
+            "Bubble Sort",
+            "Selection Sort",
+            "Merge Sort",
+            "Insertion Sort"
+        ],
+        "answer": "Merge Sort"
+    },
+    {
+        "id": "05",
+        "question" : "Which of the following data structures is most suitable for implementing a FIFO (First In First Out) order?",
+        "options": [
+            "Stack",
+            "Queue",
+            "Heap",
+            "Graph"
+        ],
+        "answer": "Queue"
+    },
+    {
+        "id": "06",
+        "question" : "What is the worst-case time complexity of Quick Sort?",
+        "options": [
+            "O(n)",
+            "O(n log n)",
+            "O(log n)",
+            "O(n^2)"
+        ],
+        "answer": "O(n^2)"
+    },
+    {
+        "id": "07",
+        "question" : "Which of the following graph traversal algorithms uses a queue?",
+        "options": [
+            "Depth First Search",
+            "Breadth First Search",
+            "Dijkstra's Algorithm",
+            "Bellman-Ford Algorithm"
+        ],
+        "answer": "Breadth First Search"
+    },
+    {
+        "id": "08",
+        "question" : "What is the main advantage of a linked list over an array?",
+        "options": [
+            "Constant time access to elements",
+            "Dynamic size",
+            "Better cache performance",
+            "None of the above"
+        ],
+        "answer": "Dynamic size"
+    },
+    {
+        "id": "09",
+        "question" : "Which of the following operations is not performed by a stack?",
+        "options": [
+            "Push",
+            "Pop",
+            "Peek",
+            "Enqueue"
+        ],
+        "answer": "Enqueue"
+    },
+    {
+        "id": "10",
+        "question" : "What is the space complexity of Merge Sort?",
+        "options": [
+            "O(1)",
+            "O(n)",
+            "O(log n)",
+            "O(n^2)"
+        ],
+        "answer": "O(n)"
+    }
+]
