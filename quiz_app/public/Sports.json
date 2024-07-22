@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question" : "Which country won the FIFA World Cup in 2018?",
+        "options": [
+            "Brazil",
+            "Germany",
+            "Argentina",
+            "France"
+        ],
+        "answer": "France"
+    },
+    {
+        "id": "02",
+        "question" : "Who holds the record for the most home runs in a single MLB season?",
+        "options": [
+            "Babe Ruth",
+            "Barry Bonds",
+            "Mark McGwire",
+            "Sammy Sosa"
+        ],
+        "answer": "Barry Bonds"
+    },
+    {
+        "id": "03",
+        "question" : "In which sport would you perform a slam dunk?",
+        "options": [
+            "Basketball",
+            "Volleyball",
+            "Tennis",
+            " Handball"
+        ],
+        "answer": "Basketball"
+    },
+    {
+        "id": "04",
+        "question" : "Who won the Men's Singles title at Wimbledon in 2023?",
+        "options": [
+            "Novak Djokovic",
+            "Roger Federer",
+            "Carlos Alcaraz",
+            "Rafael Nadal"
+        ],
+        "answer": "Carlos Alcaraz"
+    },
+    {
+        "id": "05",
+        "question" : "Which country is known as the All Blacks in rugby?",
+        "options": [
+            "Australia",
+            "New Zealand",
+            "South Africa",
+            "England"
+        ],
+        "answer": "New Zealand"
+    },
+    {
+        "id": "06",
+        "question" : "How many players are there on a standard soccer team on the field at one time?",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "answer": "11"
+    },
+    {
+        "id": "07",
+        "question" : "Which golfer has won the most major championships?",
+        "options": [
+            "Tiger Woods",
+            "Jack Nicklaus",
+            "Arnold Palmer",
+            "Gary Player"
+        ],
+        "answer": "Jack Nicklaus"
+    },
+    {
+        "id": "08",
+        "question" : "What is the highest possible break in snooker?",
+        "options": [
+            "147",
+            "155",
+            "170",
+            "180"
+        ],
+        "answer": "147"
+    },
+    {
+        "id": "09",
+        "question" : "In which sport do teams compete for the Stanley Cup?",
+        "options": [
+            "Basketball",
+            "Baseball",
+            "Ice Hockey",
+            "American Football"
+        ],
+        "answer": "Ice Hockey"
+    },
+    {
+        "id": "10",
+        "question" : "Which country won the first ever Cricket World Cup in 1975?",
+        "options": [
+            "West Indies",
+            "Australia",
+            "India",
+            "England"
+        ],
+        "answer": "West Indies"
+    }
+]

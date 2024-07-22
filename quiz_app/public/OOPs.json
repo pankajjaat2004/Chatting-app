@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question" : "What is the main principle of Object-Oriented Programming?",
+        "options": [
+            "Procedural Programming",
+            "Structured Programming",
+            "Modular Programming",
+            "Encapsulation, Inheritance, and Polymorphism"
+        ],
+        "answer": "Encapsulation, Inheritance, and Polymorphism"
+    },
+    {
+        "id": "02",
+        "question" : "Which of the following is not a feature of Object-Oriented Programming?",
+        "options": [
+            "Encapsulation",
+            "Inheritance",
+            "Polymorphism",
+            "Structured Programming"
+        ],
+        "answer": "Structured Programming"
+    },
+    {
+        "id": "03",
+        "question" : "What is the term for a function defined inside a class?",
+        "options": [
+            "Method",
+            "Procedure",
+            "Module",
+            "Constructor"
+        ],
+        "answer": "Method"
+    },
+    {
+        "id": "04",
+        "question" : "Which OOP concept allows a subclass to inherit the properties and methods of a superclass?",
+        "options": [
+            "Encapsulation",
+            "Abstraction",
+            "Inheritance",
+            "Polymorphism"
+        ],
+        "answer": "Inheritance"
+    },
+    {
+        "id": "05",
+        "question" : "What is the process of creating an object from a class called?",
+        "options": [
+            "Instantiation",
+            "Initialization",
+            "Inheritance",
+            "Compilation"
+        ],
+        "answer": "Instantiation"
+    },
+    {
+        "id": "06",
+        "question" : "Which OOP principle refers to the ability to define multiple methods with the same name but different implementations?",
+        "options": [
+            "Encapsulation",
+            "Polymorphism",
+            "Abstraction",
+            "Inheritance"
+        ],
+        "answer": "Polymorphism"
+    },
+    {
+        "id": "07",
+        "question" : "What is the keyword used to inherit from a class in Java?",
+        "options": [
+            "implements",
+            "extends",
+            "inherits",
+            "uses"
+        ],
+        "answer": "extends"
+    },
+    {
+        "id": "08",
+        "question" : "Which of the following is a blueprint for creating objects in OOP?",
+        "options": [
+            "Object",
+            "Class",
+            "Method",
+            "Function"
+        ],
+        "answer": "Class"
+    },
+    {
+        "id": "09",
+        "question" : "What term is used to describe a class that cannot be instantiated and is meant to be subclassed?",
+        "options": [
+            "Static class",
+            "Abstract class",
+            "Final class",
+            "Concrete class"
+        ],
+        "answer": "Abstract class"
+    },
+    {
+        "id": "10",
+        "question" : "Which of the following allows for the hiding of internal object details and showing only essential features?",
+        "options": [
+            "Encapsulation",
+            "Polymorphism",
+            "Inheritance",
+            "Abstraction"
+        ],
+        "answer": "Encapsulation"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question" : "What is the primary purpose of a motherboard in a computer?",
+        "options": [
+            "To connect the computer to the internet",
+            "To house the CPU, RAM, and other essential components",
+            "To provide additional storage space",
+            "All of the above"
+        ],
+        "answer": "To house the CPU, RAM, and other essential components"
+    },
+    {
+        "id": "02",
+        "question" : "What does the acronym BIOS stand for in computing?",
+        "options": [
+            "Basic Integrated Operating System",
+            "Basic Input Output System",
+            "Binary Integrated Operating System",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": "03",
+        "question" : "In a computer system, what is the role of an ALU (Arithmetic Logic Unit)?",
+        "options": [
+            " To manage network traffic",
+            "To perform arithmetic and logical operations",
+            " To store data permanently",
+            " To control the display output"
+        ],
+        "answer": "To perform arithmetic and logical operations"
+    },
+    {
+        "id": "04",
+        "question" : "Which of the following is a volatile memory type?",
+        "options": [
+            "Hard Drive",
+            "ROM",
+            "SSD",
+            "RAM"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "id": "05",
+        "question" : "What is the function of a device driver in a computer system?",
+        "options": [
+            "To connect the computer to external devices",
+            "To manage the power supply",
+            "To facilitate communication between hardware and software",
+            "To provide internet security"
+        ],
+        "answer": "To facilitate communication between hardware and software"
+    },
+    {
+        "id": "06",
+        "question" : "Which of the following is an example of a binary number system?",
+        "options": [
+            "Decimal",
+            "Hexadecimal",
+            "Binary",
+            "Base-2"
+        ],
+        "answer": "Base-2"
+    },
+    {
+        "id": "07",
+        "question" : "What is the purpose of the file extension .exe in Windows operating systems?",
+        "options": [
+            " It indicates a text file",
+            " It indicates a compressed file",
+            "It indicates an executable file",
+            "It indicates a graphic file"
+        ],
+        "answer": "It indicates an executable file"
+    },
+    {
+        "id": "08",
+        "question" : "What does RAID stand for, in the context of data storage?",
+        "options": [
+            "Random Array of Independent Disks",
+            "Redundant Array of Independent Disks",
+            " Redundant Access of Independent Drives",
+            "Random Access of Internal Disks"
+        ],
+        "answer": "Redundant Array of Independent Disks"
+    },
+    {
+        "id": "09",
+        "question" : " Which protocol is used to transfer files between computers over a network?",
+        "options": [
+            "HTTP",
+            "FTP",
+            "SMTP",
+            "TCP/IP"
+        ],
+        "answer": "FTP"
+    },
+    {
+        "id": "10",
+        "question" : "What is a “cache” in the context of computer memory?",
+        "options": [
+            " A type of external storage device",
+            "A temporary storage area that speeds up data access",
+            "A permanent memory storage medium",
+            "A type of computer virus"
+        ],
+        "answer": "A temporary storage area that speeds up data access"
+    }
+]
