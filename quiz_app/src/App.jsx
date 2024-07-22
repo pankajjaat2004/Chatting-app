@@ -31,9 +31,17 @@ function App() {
   const setQuizJson=(quizType,event) => {
     event.target.classList.add('bg-success');
 
-    fetch(`${quizType}.json`)
+    const promise=fetch(`${quizType}.json`)
       .then(res => res.json())
-      .then(data => setQuizs(data))
+        .catch(err => console.log('Invalid json- ',err))
+
+        promise.then(data => setQuizs(data))
+          .catch(err => console.log('Invalid Questions- ',err))
+
+      setTimeout(() => {
+        startQuiz();
+      }, 1000);
+      
   };
 
   // Set a Single Question

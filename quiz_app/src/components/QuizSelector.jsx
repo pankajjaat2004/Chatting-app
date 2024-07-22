@@ -13,6 +13,7 @@ const QuizSelector = ({ startQuiz,setQuizJson,showQuizSelector }) => {
                                 <h5 className='mb-2 fs-normal lh-base text-light'>Select Type of Quiz You Want To Play.</h5>
                             </div>
                             <div>
+
                                 {
                                     <button className={`option w-100 text-start btn text-white py-2 px-3 mt-3 rounded btn-dark `}
                                         onClick={(event) => setQuizJson('DSA',event)
@@ -21,24 +22,47 @@ const QuizSelector = ({ startQuiz,setQuizJson,showQuizSelector }) => {
                                         Data Structure Quiz
                                     </button>
                                 }
+
+                                {
+                                    <button className={`option w-100 text-start btn text-white py-2 px-3 mt-3 rounded btn-dark `}
+                                        onClick={(event) => setQuizJson('ComputerFundamental',event)
+                                        }
+                                    >
+                                        Computer Fundamental Quiz
+                                    </button>
+                                }
+
                                 {
 
                                     <button className={`option w-100 text-start btn text-white py-2 px-3 mt-3 rounded btn-dark `}
-                                    onClick={(event) => setQuizJson('quiz',event)}
+                                        onClick={(event) => setQuizJson('OOPs',event)
+                                        }
+                                    >
+                                        Object Oriented Programming Quiz
+                                    </button>
+
+                                }
+
+                                {
+
+                                    <button className={`option w-100 text-start btn text-white py-2 px-3 mt-3 rounded btn-dark `}
+                                    onClick={(event) => setQuizJson('ReactJS',event)}
                                     >
                                         React JS Quiz
                                     </button>
 
                                 }
+
                                 {
 
                                     <button className={`option w-100 text-start btn text-white py-2 px-3 mt-3 rounded btn-dark `}
-                                        onClick={(event) => setQuizJson('quiz',event)}
+                                        onClick={(event) => setQuizJson('Sports',event)}
                                     >
                                         Sports Quiz
                                     </button>
 
                                 }
+
                                 {
                                         
                                     <button className={`option w-100 text-start btn text-white py-2 px-3 mt-3 rounded btn-dark`}
@@ -49,7 +73,7 @@ const QuizSelector = ({ startQuiz,setQuizJson,showQuizSelector }) => {
                                 }
                             </div>
                             {
-                                    <button className='btn py-2 w-100 mt-3 bg-primary text-light fw-bold' onClick={startQuiz}>Start Quiz</button>
+                                    // <button className='btn py-2 w-100 mt-3 bg-primary text-light fw-bold' onClick={startQuiz}>Start Quiz</button>
                             }
                         </div>
                     </div>
