@@ -2,7 +2,7 @@
 
 ### Introduction
 This repo consists of the **Backend** part of a Realtime Chat Application built with the MERN stack. I built it when I was trying to learn React and the stack for the first time.
-You can find the frontend repo [here](https://github.com/tsengm6h6/chat-app-client-v2).
+You can find the frontend repo [here](https://github.com/pankajjaat2004/Project-X/chatting-app-client).
 
 ### Feature
 - JWT Authentication
@@ -26,34 +26,28 @@ You can find the frontend repo [here](https://github.com/tsengm6h6/chat-app-clie
 https://sweet-bombolone-176d6a.netlify.app
 
 ### Testing Account
-username: Lenny Connolly  
-password: 12345678  
+username: Pankaj
+password: 11111111
 
-username: Rachael Holloway  
-password: 12345678  
+username: Ayush 
+password: 11111111  
 
 ### How to use
 1. Clone the repo
     ```
-    git clone https://github.com/tsengm6h6/chat-app-server.git
+    git clone https://github.com/pankajjaat2004/Project-X/edit/main/chatting-app
     ```
 2. Enter the directory
     ```
-    cd chat-app-server
+    cd chatting-app-server
     ```
 3. Install dependencies
     ```
-    yarn install
+    npm i 
     ```
-4. Change .env.example file
-   - change file name to .env
-   - go to [MongoDB Atlas](https://www.mongodb.com/atlas/database) to create a cluster and change the MONGO_URI  
-     (Follow [this video](https://www.youtube.com/watch?v=K8YELRmUb5o&t=920s) if you need help on this step)
-   - change the CLIENT_URL to your local client port (ex. http://localhost:3000 for client running on port 3000)
-   - generate random token for ACCESS/REFRESH_TOKEN_SECRET and also COOKIE_SIGNATURE
 
-5. Run the app   
+4. Run the app   
     ```
-    yarn dev
+    npm run dev
     ```
     When you see "App is listening to port `YOUR_PORT` DB connection Success", you can run the client side.
