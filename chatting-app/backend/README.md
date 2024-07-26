@@ -23,7 +23,8 @@ You can find the frontend repo [here](https://github.com/pankajjaat2004/Project-
 - frontend: Netlify
 
 ### Live Demo
-https://sweet-bombolone-176d6a.netlify.app
+
+Upload soon....
 
 ### Testing Account
 username: Pankaj
