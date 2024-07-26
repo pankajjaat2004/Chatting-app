@@ -1,8 +1,8 @@
 # Realtime Chat App with MERN stack (Backend)
 
 ### Introduction
-This repo consists of the **Backend** part of a Realtime Chat Application built with the MERN stack. I built it when I was trying to learn React and the stack for the first time.
-You can find the frontend repo [here](https://github.com/pankajjaat2004/Project-X/chatting-app-client).
+This repo consists of the **Backend** part AND **frontend** of a Realtime Chat Application built with the MERN stack. I built it when I was trying to learn React and the stack for the first time.
+
 
 ### Feature
 - JWT Authentication
@@ -51,4 +51,3 @@ password: 11111111
     ```
     npm run dev
     ```
-    When you see "App is listening to port `YOUR_PORT` DB connection Success", you can run the client side.
